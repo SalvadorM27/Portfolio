@@ -1,0 +1,57 @@
+header.navbar {
+	background-color: #d1d9e0;
+	margin: 0;
+	background-attachment: fixed;
+}
+ul, li {
+	list-style: none;
+	display: inline;
+	padding-left: 18%;
+}
+
+
+
+
+
+
+
+
+section.top {
+	background-image: url("soccer.jpg");
+	background-size: cover;
+	padding-bottom: 45%;
+	padding-left: 10%;
+	padding-top: 50%;
+	padding-right: 15%;
+	background-attachment: fixed;
+
+}
+div.firstp {
+	height: 40%;
+	width: 50%;     
+
+	float: left;
+	background-color: #ebeaec;
+	color: black;
+	border: 1px;
+	border-style: solid;
+
+
+}
+div.profilepic {
+	float: right;
+
+}
+p.paragraph {
+	font-size: 20px;
+}
+img {
+	width: 400px; 
+	height: 300px;
+}
+p.gallery {
+	text-align: center;
+	font-size: 40px;
+	background-color: #c43c48;
+	color: #ebeaec;
+}
