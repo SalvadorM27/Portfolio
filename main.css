@@ -55,3 +55,6 @@ p.gallery {
 	background-color: #c43c48;
 	color: #ebeaec;
 }
+.container, body {
+	background-color: yellow;
+}
